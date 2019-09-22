@@ -12,7 +12,7 @@
 <h2 align='center'>Table of Contents</h2>
 
 1. [Introduction](#introduction) - "Whhhhhat even is this?", you ask?
-2. [Awknowledgements](Couldn't have learned anything without y'all.)
+2. [Resources](#Resources) - "Couldn't have done it without y'all."
 
 
 <h2 align='center'>Introduction</h2>
