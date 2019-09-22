@@ -28,4 +28,5 @@ This repository will eventually contain color-schemes, command-line tools, envir
 A personal thank you to these resources, who helped me get set up and on my way. 😄
 
 https://gist.github.com/kevin-smets/8568070
+
 https://medium.com/@Jarvski/customizing-the-os-x-terminal-11fda5c3dd5c
