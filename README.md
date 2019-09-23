@@ -19,7 +19,7 @@
 
 This dotfile repository provides me with a method to keep organized, up-to-date and never out of sync.
 
-I currently am running macOS 10.15 "Catalina". I currently use Homebrew for package management. All dotfiles are tailored to Homebrew, zsh, etc.
+I currently am running macOS 10.15 "Catalina", as well as Fedora 30 with a modified KDE desktop environment. I currently use Homebrew and YUM for package management. All dotfiles are tailored to Homebrew, YUM, KDE, zsh, etc.
 
 This repository will eventually contain color-schemes, command-line tools, environment configurations, fonts, and desktop customizations that make-up my personal OS environment.
 
