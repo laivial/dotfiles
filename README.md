@@ -7,7 +7,7 @@
 
 ![](https://github.com/laivial/dotfiles/blob/master/screenshots/terminal:wallpaper.png)
 ![](https://github.com/laivial/dotfiles/blob/master/screenshots/screenfetch.png)
-![] (https://raw.githubusercontent.com/laivial/dotfiles/master/screenshots/screenshot.png)
+![](https://raw.githubusercontent.com/laivial/dotfiles/master/screenshots/screenshot.png)
 
 
 <h2 align='center'>Table of Contents</h2>
