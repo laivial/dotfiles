@@ -7,6 +7,7 @@
 
 ![](https://github.com/laivial/dotfiles/blob/master/screenshots/terminal:wallpaper.png)
 ![](https://github.com/laivial/dotfiles/blob/master/screenshots/screenfetch.png)
+![] (https://raw.githubusercontent.com/laivial/dotfiles/master/screenshots/screenshot.png)
 
 
 <h2 align='center'>Table of Contents</h2>
@@ -19,7 +20,9 @@
 
 This dotfile repository provides me with a method to keep organized, up-to-date and never out of sync.
 
-I currently am running macOS 10.15 "Catalina", as well as Fedora 30 with a modified KDE desktop environment. I currently use Homebrew and YUM for package management. All dotfiles are tailored to Homebrew, YUM, KDE, zsh, etc.
+I currently am running macOS 10.15 "Catalina", as well as Fedora 30 with a modified KDE desktop environment. (Yes, I like the macOS looks to a disturbing degree.)
+
+I currently use Homebrew and YUM for package management. All dotfiles are tailored to Homebrew, YUM, KDE, zsh, etc.
 
 This repository will eventually contain color-schemes, command-line tools, environment configurations, fonts, and desktop customizations that make-up my personal OS environment.
 
